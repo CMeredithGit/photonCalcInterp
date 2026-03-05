@@ -2,7 +2,7 @@ A photon calculation function written for MATLAB that is used to find the photon
 
 Inputs needed are:
 
-calFileLoc - A string containing the location of your calibration file, used for loading in your calibration (ie. "C:\Users\Person\DownloadssampleCalibrationFile_05Mar2026.mat")
+calFileLoc - A string containing the location of your calibration file, used for loading in your calibration (ie. "C:\Users\Chris\DownloadssampleCalibrationFile_05Mar2026.mat")
 
 wavelength - A number that is the wavelength of the LED you want to find the photons for (in nm)
 
